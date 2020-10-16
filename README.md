@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking for opportunities
 - 🥅 2020 Goals: Contribute more to my skills
-- ⚡ Fun fact: I love to sketch and play computer & mobile games
+- ⚡ Fun fact: I love to sketch and do gaming on my PC.
 
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
